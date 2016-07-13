@@ -3,3 +3,10 @@ clear=cls
 history=cat %CMDER_ROOT%\config\.history
 unalias=alias /d $1
 ..=cd ..  
+gst=git status
+ll=ls -la
+ltr=ls -ltr
+
+gst='git status'
+gad='git add'
+gcom='git commit'
