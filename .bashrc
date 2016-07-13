@@ -189,6 +189,10 @@ fi
 
 alias ll='ls -la --color=always'
 alias ltr='ls -latr'
+export CMDER_ROOT=$(cat ~/.cmder_root)
+
+alias ll='ls -la'
+alias ltr='\ls -latr'
 alias gst='git status'
 alias gad='git add'
 alias gcom='git commit'
