@@ -1,0 +1,11 @@
+BoldAsFont=no
+CursorColour=255,128,0
+CursorType=underscore
+CursorBlinks=no
+Font=Droid Sans Mono Dotted for Powe
+FontSmoothing=full
+Locale=C
+Charset=UTF-8
+Scrollbar=none
+Term=xterm-256color
+
